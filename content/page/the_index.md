@@ -38,6 +38,6 @@ Happy to see how to help with:
 * Hiring and keeping talent in Eastern Europe
 * Acting as an interim CTO or tech advisor for a startup
 
-Get in touch for a friendly chat. I see consulting as a nice to have side gig 
+Get in touch for a friendly chat. I view consulting as a nice to have side gig 
 yielding a stream of atypical and rather complex problems, and I'm spending 
 just a bit of time in it.
