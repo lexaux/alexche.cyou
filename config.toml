@@ -1,0 +1,20 @@
+theme = 'hugo-paper'
+
+[params]
+  # color style
+  color = 'wheat'                 # linen, wheat, gray, light
+
+  # header social icons
+  twitter = 'lexaux'     # twitter.com/YOUR_TWITTER_ID
+  github = 'lexaux'       # github.com/YOUR_GITHUB_ID
+
+  mainSections = ['page', 'section', 'post']
+
+  # home page profile
+  avatar = 'alex.o.cherednychenko@gmail.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
+  name = 'Alex Cherednichenko'
+  bio = 'Building teams and software to make this world a little better place'
+
+  # misc
+  disableHLJS = true              # disable requesting highlight.js
+  monoDarkIcon = true             # show monochrome dark mode icon
