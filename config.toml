@@ -1,5 +1,5 @@
 theme = 'hugo-paper'
-baseUrl = 'https://www.alexche.cyou'
+baseUrl = 'http://www.alexche.cyou'
 
 [params]
   # color style
