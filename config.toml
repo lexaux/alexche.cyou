@@ -2,6 +2,8 @@ theme = 'hugo-paper'
 baseUrl = 'http://www.alexche.cyou'
 
 [params]
+  googleTagManagerID = 'GTM-5H6TN5F'
+
   # color style
   color = 'wheat'                 # linen, wheat, gray, light
 
