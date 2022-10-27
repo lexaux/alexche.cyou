@@ -1,5 +1,5 @@
 theme = 'hugo-paper'
-baseUrl = 'http://www.alexche.cyou'
+baseUrl = 'https://www.alexche.cyou'
 title = 'Alex Che Personal Website'
 [params]
   googleTagManagerID = 'GTM-5H6TN5F'
