@@ -9,11 +9,7 @@ company. I'm always looking for opportunities to make an impact.
 On the personal side of things, I love my family, reading, hiking, and reflecting on 
 this life. I am Ukrainian 🇺🇦. I currently live in Canada 🇨🇦.
 
-* **alex.o.cherednychenko** at **gmail** dot **com**
-* [LinkedIn](https://www.linkedin.com/in/alexandercherednichenko/)
-* [Github](https://github.com/lexaux)
-* [Facebook](https://www.facebook.com/lexaux)
-* [Medium](https://medium.com/@lexaux)
+**alex.o.cherednychenko** at **gmail** dot **com** | [LinkedIn](https://www.linkedin.com/in/alexandercherednichenko/) | [Github](https://github.com/lexaux) | [Facebook](https://www.facebook.com/lexaux) | [Medium](https://medium.com/@lexaux)
 
 ## Resume
 
