@@ -1,13 +1,15 @@
 **Hello and nice to meet you.** I am an experienced engineering leader and entrepreneur 
-with interests ranging between improving people's life, making business more 
+with interests ranging between improving people's lives, making business more 
 productive, and doing that all with tech.
 
-So far I had a career in services industry going from line roles in software engineering
-to team leadership, been getting off the ground three startups, built and exited out of my software services 
-company. I'm always looking for opportunities to make an impact. 
+So far I have had a career in services industry going from line roles in software 
+engineering to team leadership, participated in three early-stage startups, built and exited 
+out of my software services company.
 
-On the personal side of things, I love my family, reading, hiking, and reflecting on 
-this life. I am Ukrainian 🇺🇦. I currently live in Canada 🇨🇦.
+ I love my family and enjoy spending time with them. I also like reading, hiking and 
+ reflecting on this life.
+ 
+I am Ukrainian 🇺🇦. I currently live in Canada 🇨🇦.
 
 **alex.o.cherednychenko** at **gmail** dot **com** | [LinkedIn](https://www.linkedin.com/in/alexandercherednichenko/) | [Github](https://github.com/lexaux) | [Facebook](https://www.facebook.com/lexaux) | [Medium](https://medium.com/@lexaux)
 
