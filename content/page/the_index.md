@@ -1,3 +1,4 @@
+
 **Hello and nice to meet you.** I am an experienced engineering leader and entrepreneur 
 with interests ranging between improving people's lives, making business more 
 productive, and doing that all with tech.
@@ -26,9 +27,9 @@ fixing, please let me know.
 ## Consulting
 
 I was one of the two active founders At [Logicify](https://clutch.co/profile/logicify#summary). 
-We got off the ground, built up and sold a 40-strong services business with zero 
-external investments on a tiny local market. There were tons of lessons learned, 
-and sometimes I do miss that adventurous time.
+We got off the ground, built up and sold a services business. Zero 
+external investments, on a tiny local market. Team of 40 as of exit. There were tons of
+lessons learned, and sometimes I do miss that adventurous time.
 
 Happy to see how to help with: 
 
