@@ -10,7 +10,7 @@
 {{ if or $avatar_url site.Params.name }}
 
 
-<div class="-mt-4 mb-20 flex items-start">
+<div class="mt-4 mb-20 flex items-start">
   <div
     class="shrink-0 "
   >
@@ -21,7 +21,6 @@
       src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}"
     />
     {{ end }}
-
   </div>
 
   {{ if site.Params.name }}
@@ -38,6 +37,25 @@
 
 {{ end }}
 
+<!-- $pages -->
+{{ $pages := where .Site.RegularPages "Type" "blog" }}<!---->
+
+{{ $paginator := .Paginate $pages 4}} {{ range $index, $page := $paginator.Pages }}<!---->
+
+<section class="relative my-10 first-of-type:mt-0 last-of-type:mb-0">
+  <h3 class="!my-0 pb-1 !leading-none">{{ $page.Title }}</h3>
+  <time class="text-sm opacity-60">{{ $page.Date | time.Format ":date_medium" }}</time>
+  <a class="absolute inset-0" href="{{ $page.Permalink }}"></a>
+</section>
+{{ end }}
+
+<hr/>
+
 {{ with .Site.GetPage "/page/the_index" }}{{ .Content }}{{ end }}
 
+
 {{ end }}
+
+
+
+

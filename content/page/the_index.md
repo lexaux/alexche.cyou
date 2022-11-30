@@ -1,4 +1,6 @@
 
+## Bio 
+
 **Hello and nice to meet you.** I am an experienced engineering leader and entrepreneur 
 with interests ranging between improving people's lives, making business more 
 productive, and doing that all with tech.
