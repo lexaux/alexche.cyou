@@ -5,7 +5,7 @@ date: 2022-11-30
 ---
 
 ![Image of the stone](banner_image_two_locks.jpg)
-Check this picture out. Can you say why I put these two parts together? There are two stories... 
+Can you tell why I put these two parts together? Well, there are two stories... 
 
 ## Stockholm, Sweden 
 
@@ -44,9 +44,11 @@ While hi-tech solutions are very natural for forward-thinking early adopters, sp
 
 It must be very nice to be able to open the door lock from your phone, or change PIN code on the go. At the same time, if the batteries deplete, or connectivity is lost, you might find yourself in a bad situation. There is a good saying - all it works well until it does not.
 
-Technology often comes with liabilities though. If you use a smart, connected lock, you would need to replace batteries on time, and also arrange for a backup plan if something goes wrong. If you build a software system, you have to feed resource to just maintain it - fix the bugs, migrate to new and updated versions of the language, platform, libraries, and API it consumes, which evolve independently of your will.
+Technology comes with liabilities.
 
-Thus, the stone is a climax of simplification for the 'self check-in' feature.
+If you use a smart, connected lock, you would need to replace batteries on time, and also arrange for a backup plan if something goes wrong. If you build a software system, you have to feed resource to just maintain it - fix the bugs, migrate to new and updated versions of the language, platform, libraries, and API it consumes, which evolve independently of your will.
+
+Thus, the stone with keys under it is a climax of simplification for the 'self check-in' feature.
 
 ## Thoughts 
 
@@ -54,7 +56,7 @@ This situation made me think about how we solve problems and design features, an
 
 Let us be clear, I am not arguing here for any particular level of technology you might want to apply for your product. It depends on many things - who are you, what is the product, what maturity stage are you in and so on. I am arguing that having a mindful decision is what makes sense. 
 
-It is worth trying to think outside of a box, even if it is a lockbox. &#9209;
+It is worth thinking outside of a box, even if it is a lockbox &#9632;
 
 
 Credits: 
