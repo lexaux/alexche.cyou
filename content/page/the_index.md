@@ -18,7 +18,7 @@ I am Ukrainian 🇺🇦. I currently live in Canada 🇨🇦.
 
 ## Resume
 
-Whether you are looking to hire me, or just interested, there are two tracks I anticipate: 
+I am not looking for employment at the moment. However, whether you are looking to hire me, or just interested, there are two tracks I anticipate: 
 
 * [Resume: Engineering Leadership and Management](https://docs.google.com/document/d/1itWIwHYUlxGa0qP2VDAvMPZA9hjU_R00D6ES5je1Y08/edit#)
 * [Resume: Software Engineering](https://docs.google.com/document/d/1tyH_jeOm9-XTKYIPrxEHNpMrre_TPDXSveZtwFVvF18/edit#)
@@ -26,7 +26,7 @@ Whether you are looking to hire me, or just interested, there are two tracks I a
 The documents are open for commenting, so if you just stopped by and see something worth
 fixing, please let me know. 
 
-## Consulting
+## Consulting and Advisory
 
 I was one of the two active founders At [Logicify](https://clutch.co/profile/logicify#summary). 
 We got off the ground, built up and sold a services business. Zero 

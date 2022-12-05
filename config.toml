@@ -1,6 +1,18 @@
 theme = 'hugo-paper'
 baseUrl = 'https://alexche.cyou'
 title = 'Alex Che Personal Website'
+[menu]
+[[menu.main]]
+  identifier = 'about'
+  name = 'About / Consulting and Advisory'
+  url = '/'
+  weight = -110
+[[menu.main]]
+  name = 'Thoughts and Reflections'
+  url = '/blog'
+  weight = -100
+
+
 [params]
   googleTagManagerID = 'GTM-5H6TN5F'
 
@@ -16,7 +28,7 @@ title = 'Alex Che Personal Website'
   # home page profile
   avatar = 'alex.o.cherednychenko@gmail.com'       # Gravatar email or image url(e.g. "https://deno.land/logo.svg")
   name = 'Alex Cherednichenko'
-  bio = 'Building teams and software to make this world a little better place'
+  bio = 'Building teams and software to make the world better'
 
   # misc
   disableHLJS = true              # disable requesting highlight.js

@@ -6,36 +6,6 @@
 {{ end }}
 
 
-{{ $avatar_url := $.Scratch.Get "avatar_url" }}<!---->
-{{ if or $avatar_url site.Params.name }}
-
-
-<div class="mt-4 mb-20 flex items-start">
-  <div
-    class="shrink-0 "
-  >
-    {{ with .Resources.GetMatch "avatar_cartoon_scaled.png" }}
-        <img
-      class="my-0 "
-      style="width: 5rem; height: 5rem;"
-      src="data:{{ .MediaType }};base64,{{ .Content | base64Encode }}"
-    />
-    {{ end }}
-  </div>
-
-  {{ if site.Params.name }}
-  <div>
-    <h1 class="mt-1.5 mb-3 text-3xl font-bold">
-        Alex<span class="greyed_text">ander</span> Che<span class="greyed_text">rednychenko</span>
-    </h1>
-    <div class="break-words">
-      {{ site.Params.bio | default (print "Personal blog by " site.Params.name) }}
-    </div>
-  </div>
-  {{ end }}
-</div>
-
-{{ end }}
 
 <!-- $pages -->
 {{ $pages := where .Site.RegularPages "Type" "blog" }}<!---->

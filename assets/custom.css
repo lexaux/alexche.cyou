@@ -1,3 +1,10 @@
 .greyed_text {
-    color: #ccc ;
+    color: #ccc;
+}
+
+
+@media only screen and (max-width: 700px) {
+    .my-invisible {
+        display: none
+    }
 }
